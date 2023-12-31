@@ -1,5 +1,16 @@
 Cryptocurrency tracker app.
 
+Tech Stack:
+
+- Kotlin
+- MVVM & Clean Architecture
+- Room & SimpleSQLQuery
+- Coroutines
+- Flow
+- Paging3
+- ViewBinding
+- Vico for drawing graph
+
 Features:
 
 - See latest cryptocurrency prices up to 2000 different cryptocurrencies, filter with other attributes like gainers, losers etc.
@@ -16,13 +27,3 @@ Features:
 ![converter](https://github.com/batuozturk/Cryptocurrencyapp/assets/57419510/e29d9a6e-b4aa-43cf-b96e-227305bba27c)
 
 - Turkish, French and English language support
-
-Tech Stack:
-
-- Kotlin
-- MVVM & Clean Architecture
-- Room & SimpleSQLQuery
-- Coroutines
-- Flow
-- Paging3
-- ViewBinding
