@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/containerFragment">
+
+    <fragment
+        android:id="@+id/containerFragment"
+        android:name="com.batuhan.cryptocurrencyapp.presentation.pages.ContainerFragment"
+        android:label="ContainerFragment">
+        <action
+            android:id="@+id/action_containerFragment_to_currencyDetailFragment"
+            app:destination="@id/currencyDetailFragment">
+            <argument
+                android:name="currencyId"
+                app:argType="string" />
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/currencyDetailFragment"
+        android:name="com.batuhan.cryptocurrencyapp.presentation.detail.CurrencyDetailFragment"
+        android:label="CurrencyDetailFragment">
+        <argument
+            android:name="currencyId"
+            app:argType="string" />
+    </fragment>
+</navigation>

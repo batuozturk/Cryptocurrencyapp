@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/tab_prices"
+        android:id="@+id/tab_prices"
+        android:icon="@drawable/ic_price_change_24"
+        />
+    <item
+        android:title="@string/tab_news"
+        android:id="@+id/tab_news"
+        android:icon="@drawable/ic_newspaper_24"
+        />
+    <item
+        android:title="@string/tab_converter"
+        android:id="@+id/tab_converter"
+        android:icon="@drawable/ic_converter_24"
+        />
+    <item
+        android:title="@string/tab_settings"
+        android:id="@+id/tab_settings"
+        android:icon="@drawable/ic_settings_24"
+        />
+
+</menu>

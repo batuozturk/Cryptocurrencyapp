@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "560456658678",
+    "firebase_url": "https://cryptocurrencyapp-696df.firebaseio.com",
+    "project_id": "cryptocurrencyapp-696df",
+    "storage_bucket": "cryptocurrencyapp-696df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560456658678:android:8f0661c4187e2b4f9206d7",
+        "android_client_info": {
+          "package_name": "com.batuhan.cryptocurrencyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560456658678-auq59801qo9e19i2vkf2b6ivniahofca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.batuhan.cryptocurrencyapp",
+            "certificate_hash": "91c3910533bf7d05d7161279d669d9ab55b8ccc5"
+          }
+        },
+        {
+          "client_id": "560456658678-f67q2b2oa6elu8j3c6oeo96716v5si2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.batuhan.cryptocurrencyapp",
+            "certificate_hash": "41c9ef95576fb99e16284b7891c7e3874b9181de"
+          }
+        },
+        {
+          "client_id": "560456658678-g2qp3ut6njs2gl6n60l26dokqrkgk55m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.batuhan.cryptocurrencyapp",
+            "certificate_hash": "3b0a3e767a71b42510b400cc03c8bc14b31c7e4a"
+          }
+        },
+        {
+          "client_id": "560456658678-uckqg79nb4c8ce62etba3hvbjp3vrd9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSkkvfNhbheZxr1viydlYiwXcR7sQCqT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560456658678-uckqg79nb4c8ce62etba3hvbjp3vrd9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3316106479257605~3916909493"
+    }
+  ],
+  "configuration_version": "1"
+}
