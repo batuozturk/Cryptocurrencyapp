@@ -1,5 +1,7 @@
 Cryptocurrency tracker app.
 
+You can download on Google Play : https://play.google.com/store/apps/details?id=com.batuhan.cryptocurrencyapp
+
 Tech Stack:
 
 - Kotlin
